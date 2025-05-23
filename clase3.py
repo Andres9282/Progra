@@ -50,3 +50,29 @@ if year%4 == 0 or (year%100 == 0 and year%400 == 0):
     print("Es bisiesto")
 else:
     print("No es bisiesto")
+
+# Ejercicio 5
+
+elevadorA, elevadorB, piso = 8, 10, 9
+
+if elevadorA == elevadorB:
+    print("Elevador A")
+elif (elevadorA - piso)**2 < (elevadorB - piso)**2:
+    print("Elevador A")
+elif (elevadorA - piso)**2 > (elevadorB - piso)**2:
+    print("Elevador B")
+else:
+    print("Elevador A")
+
+# Ejercicio 6
+
+x , y = 10, 2
+
+if x > 0 and y > 0:
+    estado = "Peligro"
+
+if x**2 + y**2 <= 25:
+    estado = "Peligro"
+else:
+    estado = "Seguro"
+print(estado)
