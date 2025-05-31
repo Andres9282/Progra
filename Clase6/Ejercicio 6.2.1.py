@@ -5,7 +5,7 @@ Ejercicio:    Eliminando valores duplicados
 Descripción:  Dada una lista por el usuario, elimina los valores duplicados y mantene el orden de aparición.
 
 Autor:        Andres Arturo Marroquin Soto
-Fecha:        2025-05-31
+Fecha:        2025-05-30
 Estado:       [ Terminado ]
 '''
 
