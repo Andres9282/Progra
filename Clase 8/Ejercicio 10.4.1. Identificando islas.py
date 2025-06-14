@@ -1,8 +1,8 @@
 '''
 Clase:        10
 Tema:         Manejo de matrices
-Ejercicio:    Juego del entorno
-Descripción:  Dada una matriz binaria ingresada por el usuario, verifica para cada celda de una matriz binaria cuántos elementos con valor de 1 hay en las celdas vecinas 
+Ejercicio:    Identificando islas
+Descripción:  Dada una matriz binaria ingresada por el usuario (0 = agua, 1 = tierra), cuenta la cantidad de islas disponibles. Una isla está formada por elementos con valor de 1 conectados horizontal o verticalmente.
 Autor:        Andres Arturo Marroquin Soto
 Fecha:        2025-06-14
 Estado:       [ Terminado ]
